@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '7335'
     url: http://www.gutenberg.org/2009/agents/7335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17383#Quer-Durch-Borneo--13-Ergebnisse-seiner-Reisen-in-den-Jahren-1894-1896-97-und-1898-1900--Zwei_
 gutenberg_bookshelf:
 - Anthropology
 - DE Sachbuch
