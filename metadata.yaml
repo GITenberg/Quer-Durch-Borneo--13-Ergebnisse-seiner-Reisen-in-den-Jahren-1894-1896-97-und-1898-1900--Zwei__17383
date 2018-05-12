@@ -1,0 +1,39 @@
+_repo: Quer-Durch-Borneo--13-Ergebnisse-seiner-Reisen-in-den-Jahren-1894-1896-97-und-1898-1900--Zwei__17383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17383-h/images/front-cover.jpg
+creator:
+  author:
+    agent_name: Nieuwenhuis, Anton Willem
+    birthdate: 1864
+    deathdate: 1953
+    gutenberg_agent_id: '7334'
+    url: http://www.gutenberg.org/2009/agents/7334
+  editor:
+    agent_name: Nieuwenhuis-von Üxküll-Güldenbandt, M.
+    aliases:
+    - Nieuwenhuis-von Uxkull-Guldenbandt
+    - Nieuwenhuis-von Uxkull-Guldenbrandt
+    gutenberg_agent_id: '7335'
+    url: http://www.gutenberg.org/2009/agents/7335
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- DE Sachbuch
+gutenberg_issued: '2005-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17383'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Borneo -- Description and travel'
+- !lcsh 'Borneo -- Ethnology'
+- !lcc 'DS'
+title: "Quer Durch Borneo\r\nErgebnisse seiner Reisen in den Jahren 1894, 1896-97\
+  \ und 1898-1900; Zweiter Teil"
+url: http://www.gutenberg.org/ebooks/17383
